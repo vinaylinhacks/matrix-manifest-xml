@@ -1,0 +1,8 @@
+<manifest>
+    <remote name="origin" fetch="https://github.com/vinaylinhacks" />
+    <default revision="main" remote="origin" sync-j="4" />
+
+    <project name="matrix-kernel" path="kernel" />
+    <project name="matrix-userland" path="userland" />
+    <project name="matrix-rootfs" path="rootfs" />
+</manifest>
