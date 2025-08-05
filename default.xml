@@ -5,4 +5,6 @@
     <project name="matrix-kernel" path="kernel" />
     <project name="matrix-userland" path="userland" />
     <project name="matrix-rootfs" path="rootfs" />
+    <project name="matrix-devops" path="devops" />
+    <project name="matrix-docs" path="docs" />
 </manifest>
